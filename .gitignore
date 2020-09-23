@@ -2,3 +2,7 @@ venv/
 *.sqlite3
 courses/fixtures
 courses/images
+images/
+__pycache__/
+media/
+.idea
